@@ -102,10 +102,7 @@ Run the container in the background silently
 ### <br /><br /><br />RUN THE SCRIPT **task.py** TO SAVE THE EFFORTS <br /><br /><br /><br /><br /><br /><br />
    
     
-    
-####  Submission By
-###### UTKARSH PANDIT
-###### pandit.utkarsh14@gmail.com
+   
     
    
      
